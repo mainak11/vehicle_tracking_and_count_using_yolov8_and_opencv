@@ -7,3 +7,7 @@ https://github.com/mainak11/vehicle_tracking_and_count_using_yolov8_and_opencv/a
 
 
 ## Vehicle count for two way road
+
+
+https://github.com/mainak11/vehicle_tracking_and_count_using_yolov8_and_opencv/assets/97405158/8179597d-e3a1-4ffe-86aa-38e72334b72d
+
